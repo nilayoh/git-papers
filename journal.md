@@ -1,7 +1,7 @@
-#Wriitten by me and John
+#Written by me
 
 #This is my paper
-Written by me and John
+Written by me and all of my friends
 
 ##Introduction
 This is Inroduction 
